@@ -2,8 +2,5 @@ this is a new file
 author: alyssa not yuan
 date: 2/10/2022s
 mood: confuzzled asf
-<<<<<<< HEAD
 this is from local
-=======
-this is a change from server
->>>>>>> f380342b9327e0983f6a506840939a9db1dd55a2
+
